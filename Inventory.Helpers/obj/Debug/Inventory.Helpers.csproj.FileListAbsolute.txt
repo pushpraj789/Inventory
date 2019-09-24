@@ -1,0 +1,6 @@
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\bin\Debug\Inventory.Helpers.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\bin\Debug\Inventory.Helpers.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\obj\Debug\Inventory.Helpers.csprojAssemblyReference.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\obj\Debug\Inventory.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\obj\Debug\Inventory.Helpers.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Helpers\obj\Debug\Inventory.Helpers.pdb
