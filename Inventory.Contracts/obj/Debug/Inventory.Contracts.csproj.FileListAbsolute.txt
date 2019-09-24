@@ -1,0 +1,13 @@
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Contracts.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Contracts.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Entities.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Helpers.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Entities.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\bin\Debug\Inventory.Helpers.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\obj\Debug\Inventory.Contracts.csprojAssemblyReference.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\obj\Debug\Inventory.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\obj\Debug\Inventory.Contracts.csproj.CopyComplete
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\obj\Debug\Inventory.Contracts.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Contracts\obj\Debug\Inventory.Contracts.pdb
