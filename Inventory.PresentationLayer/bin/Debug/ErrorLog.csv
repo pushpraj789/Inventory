@@ -1,0 +1,17 @@
+"24-09-2019 14:02:43","Capgemini.Inventory.Exceptions.InventoryException","
+Password should be 6 to 15 characters with at least one digit, one uppercase letter, one lower case letter.","   at Capgemini.Inventory.BusinessLayer.BLBase`1.<Validate>d__0.MoveNext() in C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.BusinessLayer\BLBase.cs:line 63
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Capgemini.Inventory.BusinessLayer.SystemUserBL.<Validate>d__2.MoveNext() in C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.BusinessLayer\SystemUserBL.cs:line 42
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Capgemini.Inventory.BusinessLayer.SystemUserBL.<AddSystemUserBL>d__3.MoveNext() in C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.BusinessLayer\SystemUserBL.cs:line 79
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Capgemini.Inventory.PresentationLayer.AdminPresentation.<AddSystemUser>d__1.MoveNext() in C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.PresentationLayer\AdminPresentation.cs:line 95","",""
