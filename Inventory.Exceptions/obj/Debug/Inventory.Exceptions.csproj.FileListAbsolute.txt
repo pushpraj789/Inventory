@@ -1,0 +1,6 @@
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\bin\Debug\Inventory.Exceptions.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\bin\Debug\Inventory.Exceptions.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\obj\Debug\Inventory.Exceptions.csprojAssemblyReference.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\obj\Debug\Inventory.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\obj\Debug\Inventory.Exceptions.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Exceptions\obj\Debug\Inventory.Exceptions.pdb
