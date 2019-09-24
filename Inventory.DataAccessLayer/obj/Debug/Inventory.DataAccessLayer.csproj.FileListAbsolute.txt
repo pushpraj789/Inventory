@@ -1,0 +1,17 @@
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.DataAccessLayer.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.DataAccessLayer.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Contracts.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Entities.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Exceptions.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Helpers.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Contracts.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Entities.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Exceptions.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Inventory.Helpers.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\obj\Debug\Inventory.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\obj\Debug\Inventory.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\obj\Debug\Inventory.DataAccessLayer.csproj.CopyComplete
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\obj\Debug\Inventory.DataAccessLayer.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.DataAccessLayer\obj\Debug\Inventory.DataAccessLayer.pdb
