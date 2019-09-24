@@ -1,0 +1,9 @@
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\bin\Debug\Inventory.Entities.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\bin\Debug\Inventory.Entities.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\bin\Debug\Inventory.Helpers.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\bin\Debug\Inventory.Helpers.pdb
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\obj\Debug\Inventory.Entities.csprojAssemblyReference.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\obj\Debug\Inventory.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\obj\Debug\Inventory.Entities.csproj.CopyComplete
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\obj\Debug\Inventory.Entities.dll
+C:\Users\pukaushi\Downloads\Pecunia-master\Pecunia-master\Inventory\Inventory.Entities\obj\Debug\Inventory.Entities.pdb
